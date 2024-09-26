@@ -2,7 +2,7 @@
 
 I am a software developer.
 
-My interests lie in functional and concurrent programming. Most of my tinkering ends up integrated into my [personal website](https://draconic-systems.com).
+My interests lie in functional and concurrent programming and data science. Most of my tinkering ends up integrated into my [personal website](https://alta-barra.com).
 
 In all my endeavors, I strive to combine technical prowess with thoughtful design, aiming to make useful and well-built tools.
 

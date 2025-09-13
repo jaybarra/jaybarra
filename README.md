@@ -1,15 +1,37 @@
-## Hello, Bem Vindo, živjo  👋
+# 👋 Hello, Bem Vindo, živjo  
 
-I am a software developer.
+## I'm a Software Developer
 
-My interests lie in functional and concurrent programming and data science. Most of my tinkering ends up integrated into my [personal website](https://alta-barra.com).
+I love exploring **functional** and **concurrent** programming, and I’m passionate about **data science**.  
+Most of my tinkering ends up on my personal website, where I try to blend technical rigor with thoughtful design to build useful, well‑crafted tools.
 
-In all my endeavors, I strive to combine technical prowess with thoughtful design, aiming to make useful and well-built tools.
+---
 
-I enjoy most software languages
-- Python
-- Elixir
-- Clojure
-- JavaScript
-- Java
-- and have experience with many more
+### 🛠️ Languages I Enjoy
+
+- **Python**
+- **Elixir**
+- **Clojure**
+- **JavaScript**
+- **Java**
+- …and many more!
+
+---
+
+### 🌐 Find Me Elsewhere
+
+| Platform | Link |
+|----------|------|
+| **Website** | <https://alta-barra.com> |
+| **GitHub** | <https://github.com/jaybarra> |
+| **LinkedIn** | <https://linkedin.com/in/jay-barra> |
+
+---
+
+#### ✨ Fun Fact
+
+*In the case of a kitten going off and set off a shark explosion, duck and cover.*
+
+---
+
+*Thanks for stopping by! Feel free to explore my repos, open an issue, or just say hi.* 🎉

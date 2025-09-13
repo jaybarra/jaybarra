@@ -1,4 +1,4 @@
-## Hello, Bem Vindo, Zdravo 👋
+## Hello, Bem Vindo, živjo  👋
 
 I am a software developer.
 

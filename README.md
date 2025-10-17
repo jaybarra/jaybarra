@@ -22,8 +22,9 @@ Most of my tinkering ends up on my personal website, where I try to blend techni
 
 | Platform | Link |
 |----------|------|
-| **Website** | <https://alta-barra.com> |
+| **Website** | <https://altabarra.com> |
 | **GitHub** | <https://github.com/jaybarra> |
+| **GitLab** | <https://gitlab.com/jaybarra> |
 | **LinkedIn** | <https://linkedin.com/in/jay-barra> |
 
 ---

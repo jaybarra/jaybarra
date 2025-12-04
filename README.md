@@ -1,6 +1,6 @@
 # 👋 Hello, Bem Vindo, živjo  
 
-I have migrated all my projects to (GitLab)[https://gitlab.com/jaybarra]
+I have migrated all my projects to [GitLab](https://gitlab.com/jaybarra)
 
 ## I'm a Software Developer
 

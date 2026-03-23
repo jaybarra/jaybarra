@@ -2,20 +2,21 @@
 
 I have migrated all my projects to [GitLab](https://gitlab.com/jaybarra)
 
-## I'm a Software Developer
+## I am Software Engineer
 
-I love exploring **functional** and **concurrent** programming, and I’m passionate about **data science**.  
-Most of my tinkering ends up on my personal website, where I try to blend technical rigor with thoughtful design to build useful, well‑crafted tools.
+I love exploring **functional** and **concurrent** programming, and am passionate about **human first** interactions.
+Most of my tinkering ends up on my personal website, where I blend technical rigor with thoughtful design to build beautiful, useful, and well‑crafted tools.
 
 ---
 
 ### 🛠️ Languages I Enjoy
 
-- **Python**
 - **Elixir**
 - **Clojure**
 - **JavaScript**
 - **Java**
+- **.NET**
+- **Python**
 - …and many more!
 
 ---
@@ -28,12 +29,6 @@ Most of my tinkering ends up on my personal website, where I try to blend techni
 | **GitHub** | <https://github.com/jaybarra> |
 | **GitLab** | <https://gitlab.com/jaybarra> |
 | **LinkedIn** | <https://linkedin.com/in/jay-barra> |
-
----
-
-#### ✨ Fun Fact
-
-*In the case of a kitten going off and set off a shark explosion, duck and cover.*
 
 ---
 

@@ -2,9 +2,9 @@
 
 I have migrated all my projects to [GitLab](https://gitlab.com/jaybarra)
 
-## I am Software Engineer
+## I am a Software Engineer
 
-I love exploring **functional** and **concurrent** programming, and am passionate about **human first** interactions.
+I love exploring **functional** and **concurrent** programming, am passionate about **human first** interactions, and loathe AI-slop.
 Most of my tinkering ends up on my personal website, where I blend technical rigor with thoughtful design to build beautiful, useful, and well‑crafted tools.
 
 ---
